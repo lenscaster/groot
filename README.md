@@ -2,7 +2,7 @@
 <div align="center">
   <img border-radius: 15px src="groot.jpg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="groot" src="https://img.shields.io/badge/groot-%20-red"></a>
+<a href="#"><img title="groot" src="https://img.shields.io/badge/groot-yellow?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/lenscaster"><img title="Author" src="https://img.shields.io/badge/Author-lenscaster-groot/pikachu?color=redstyle=for-the-badge&logo=whatsapp"></a>
