@@ -33,7 +33,7 @@ Project created by <a href="https://github.com/lenscaster">lenscaster</a> to mak
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](lenscaster.png)](https://chat.whatsapp.com/GUhzlg6Yhkj611fLl5HkpN)
+  [![join](https://github.com/lenscaster/groot/blob/main/media/lenscaster.png)](https://chat.whatsapp.com/GUhzlg6Yhkj611fLl5HkpN)
   <div align="center">
        
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lenscaster&repo=nandubot&theme=nightowl)](https://github.com/lenscaster/nanduz)
