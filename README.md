@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px src="groot.jpg" width="200" height="200"/>
+  <img border-radius: 15px src="https://github.com/lenscaster/groot/blob/main/media/groot.jpg" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="groot" src="https://img.shields.io/badge/groot-yellow?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
@@ -94,7 +94,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![lenscaster](groot100.jpg?size=100)](https://github.com/lenscaster/groot) |  [![vdj-akash](vdj.jpg?size=100)](https://github.com/vdj-akash/ponnu) | [![lenscaster](nandu100.jpg?size=100)](https://github.com/lenscaster/nanduz) 
+  [![lenscaster](https://github.com/lenscaster/groot/blob/main/media/groot100.jpg?size=100)](https://github.com/lenscaster/groot) |  [![vdj-akash](https://github.com/lenscaster/groot/blob/main/media/vdj.jpg?size=100)](https://github.com/vdj-akash/ponnu) | [![lenscaster](https://github.com/lenscaster/groot/blob/main/media/nandu100.jpg?size=100)](https://github.com/lenscaster/nanduz) 
 ----|----|----
 [lenscaster](https://github.com/lenscaster)  | [vdj-akash](https://github.com/vdj-akash) | [lenscaster](https://github.com/lenscaster)
 Base, Bug Fixes, Modules | Bug Fixes, Modules | Modifiying  as   public
