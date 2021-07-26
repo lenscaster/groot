@@ -1,15 +1,15 @@
 
 <div align="center">
-  <img border-radius: 15px src="https://avatars.githubusercontent.com/u/83164448?v=4" width="200" height="200"/>
+  <img border-radius: 15px src="groot.jpg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="JulieMwol" src="https://img.shields.io/badge/JulieMwol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="groot" src="https://img.shields.io/badge/groot-%20-red"></a>
 </p>
   <p align="center">
-<a href="https://github.com/farhan-dqz"><img title="Author" src="https://img.shields.io/badge/Author-farhan-dqz/JulieMwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/lenscaster"><img title="Author" src="https://img.shields.io/badge/AUTHOR-lenscaster-red"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/farhan-dqz">Farhan-dqz</a> to make it public
+Project created by <a href="https://github.com/lenscaster">lenscaster</a> to make it public
     <br>
        | © |
         Reserved |
@@ -19,24 +19,26 @@ Project created by <a href="https://github.com/farhan-dqz">Farhan-dqz</a> to mak
 ----
 
   <p align="center">
-  <a href="httsp://github.com/farhan-dqz/JulieMwol">
-    <img src="https://img.shields.io/github/repo-size/farhan-dqz/JulieMwol?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="https://github.com/lenscaster/groot">
+    <img src="https://img.shields.io/github/repo-size/lenscaster/groot?color=%f7df1e&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/farhan-dqz/followers"><img title="Followers" src="https://img.shields.io/github/followers/farhan-dqz?color=blue&style=flat-square"></a>
-<a href="https://github.com/farhan-dqz/JulieMwol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/farhan-dqz/JulieMwol?color=blue&style=flat-square"></a>
-<a href="https://github.com/farhan-dqz/JulieMwol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/farhan-dqz/JulieMwol?color=blue&style=flat-square"></a>
-<a href="https://github.com/farhan-dqz/JulieMwol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/farhan-dqz/JulieMwol?label=Watchers&color=blue&style=flat-square"></a>
-<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
+<a href="https://github.com/ameer-kallumthodi/followers"><img title="Followers" src="https://img.shields.io/github/followers/ameer-kallumthodi?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/ameer-kallumthodi/pikachu/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ameer-kallumthodi/pikachu?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/ameer-kallumthodi/pikachu/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ameer-kallumthodi/pikachu?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/ameer-kallumthodi/pikachu/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/ameer-kallumthodi/pikachu?label=Watchers&color=f7df1e&style=flat-square"></a>
+<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-f7df1e.svg"</a>
 </p>
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/BT0nNPBthyFI1ejoSr0i7W)
+  [![join](lenscaster.png)](https://chat.whatsapp.com/GUhzlg6Yhkj611fLl5HkpN)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=PublicBot&theme=nightowl)](https://github.com/farhan-dqz/PublicBot)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lenscaster&repo=nandubot&theme=nightowl)](https://github.com/lenscaster/nanduz)
+  </div>
+
   </div>
     
 ## Setup
@@ -46,7 +48,7 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/farhan-dqz/JulieMwol)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lenscaster/KUNJUTTY.git)
      </div>
 <br>
 <br >
@@ -61,8 +63,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/farhan-dqz/JulieMwol
-$ cd JulieMwol
+$ git clone https://github.com/lenscaster/groot
+$ cd pikachu
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -71,8 +73,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/farhan-dqz/JulieMwol
-$ cd JulieMwol
+$ git clone https://github.com/lenscaster/groot
+$ cd groot
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -92,10 +94,10 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![lenscaster](groot100.jpg?size=100)](https://github.com/lenscaster/groot) |  [![vdj-akash](vdj.jpg?size=100)](https://github.com/vdj-akash/ponnu) | [![lenscaster](nandu100.jpg?size=100)](https://github.com/lenscaster/nanduz) 
 ----|----|----
-[farhan-dqz](https://github.com/farhan-dqz)  | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk)
-Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
+[lenscaster](https://github.com/lenscaster)  | [vdj-akash](https://github.com/vdj-akash) | [lenscaster](https://github.com/lenscaster)
+Base, Bug Fixes, Modules | Bug Fixes, Modules | Modifiying  as   public
   </div>
     
 
