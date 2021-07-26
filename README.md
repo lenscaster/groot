@@ -5,7 +5,7 @@
 <a href="#"><img title="groot" src="https://img.shields.io/badge/groot-%20-red"></a>
 </p>
   <p align="center">
-<a href="https://github.com/lenscaster"><img title="Author" src="https://img.shields.io/badge/AUTHOR-lenscaster-red"></a>
+<a href="https://github.com/lenscaster"><img title="Author" src="https://img.shields.io/badge/Author-lenscaster-groot/pikachu?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
