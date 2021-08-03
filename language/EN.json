@@ -43,7 +43,7 @@
             "MUTE_DESC": "Mute the group chat. Only the admins can send a message.\n⌨️ Example: .mute & .mute 5m etc",
             "MUTED": "```chupp...🤫 \n Arum mindallu...😌```",
             "UNMUTE_DESC": "Unmute the group chat. Anyone can send a message.",
-            "UNMUTED": "```group unlock alli gooys...🕊️```",
+            "UNMUTED": "```group unlock aayi gooys...🕊️```",
             "INVITE_DESC": "Provides the group's invitation link.",
             "INVITE": "```INNA PIDICHO LINK ...🙃: ```"
         },
